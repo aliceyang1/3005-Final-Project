@@ -97,5 +97,5 @@ INSERT INTO Trainers_Availabilities (Trainer_ID, Availability_ID)
 VALUES
 (7, 2);
 
-ALTER TABLE HealthMetrics
-ADD CONSTRAINT unique_member_metric UNIQUE (Member_ID, MetricType);
+ALTER TABLE Payments
+ADD COLUMN Status VARCHAR(50) DEFAULT 'Outstanding';

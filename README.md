@@ -7,7 +7,7 @@ Student number: 101277355
 
 This is a simple Python3 application that manages student records from a PostgreSQL database.
 
-[Video Link](https://youtu.be/EO-nJoHwOF8)
+[Video Link](https://youtu.be/C8_IFWYZ4TU)
 
 ### PostgreSQL Database setup
 
@@ -28,3 +28,5 @@ Install [psycopg 2](https://pypi.org/project/psycopg/)
 ```bash
 python3 projectCode.py
 ```
+
+3. NOTE: some possible errors in the DML file might be caused by the ID mismatch when using auto-increment, if that happens, update the ID values according to the values in your environment. Sorry for the inconvinence!!
