@@ -8,6 +8,7 @@ Student number: 101277355
 This is a simple Python3 application that manages student records from a PostgreSQL database.
 
 [Video Link](https://youtu.be/C8_IFWYZ4TU)
+[Diagrams](https://www.figma.com/file/KKlYS2FntQk1456iUspFNc/3005-final-project-ERD?type=whiteboard&node-id=0%3A1&t=niXhJvng0ZpWnUBm-1)
 
 ### PostgreSQL Database setup
 
